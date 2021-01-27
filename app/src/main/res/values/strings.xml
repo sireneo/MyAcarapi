@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App_Acarapi</string>
+    <string name="txt_n">INGRESE UN NUMERO</string>
+    <string name="btn_calcular">CALCULAR</string>
+    <string name="r_fibon">FIBONACCI</string>
+    <string name="r_bina">BINARIO</string>
+    <string name="r_replicapar">REPLICAPARES</string>
+    <string name="txt_resul">RESULTADO</string>
+    <string name="txt_btn">VOLVER</string>
+
+</resources>
